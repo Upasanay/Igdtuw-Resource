@@ -3,7 +3,7 @@
 With our broader vision, we have helped students with the best of our capability in every manner.
 And just over the span of 6 months "IGDTUW RESOURCE" has achieved a lot and got positive reviews from the students, thus, making it an absolute candidate for being a Society to help us achieve our motto of "Learn and Grow".
 
-# Link to the website - https://igdtuwresource.info
+# Link to the website - https://igdtuwresource.github.io/site/
 # It is deployed on my second github account- https://github.com/Igdtuwresource/websites
 ![image](https://github.com/Upasanay/Igdtuw-Resource/assets/101192110/c9120285-67a0-4d8c-9bea-79dad855dcdd)
 
